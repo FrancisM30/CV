@@ -1,0 +1,48 @@
+/***************TAG SELECTORS***************/
+body {
+  background-color: #F0E9D2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 50px;
+}
+
+h1 {
+  color: #316B83;
+  font-family: monospace;
+  text-align: center;
+}
+
+h3 {
+  color: #89B5AF;
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+}
+
+li {
+  font-family: monospace;
+}
+
+td {
+  font-family: monospace;
+
+}
+
+
+
+/**********CLASS SELECTOR**********/
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/**********ID SELECTOR**********/
